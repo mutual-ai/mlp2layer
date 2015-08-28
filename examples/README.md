@@ -1,1 +1,1 @@
-Examples using the "trainingMLP2" function.
+Examples using the "trainingMLP2" and "outMLP2" functions.

@@ -23,3 +23,6 @@ disp('Input [1 0]');
 outMLP2(bias,[1 0],W1,W2)
 disp('Input [1 1]');
 outMLP2(bias,[1 1],W1,W2)
+
+% Plot MSE
+plot(mse_hist)

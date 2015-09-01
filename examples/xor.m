@@ -1,3 +1,5 @@
+%% Learning XOR logical operation
+
 % Configuration
 neurons = [4 1];
 a = 0.001;

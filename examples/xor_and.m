@@ -27,4 +27,4 @@ disp('Input [1 1]');
 outMLP2(bias,[1 1],W1,W2)
 
 % Plot MSE
-plot(mse_hist)
+semilogx(mse_hist)

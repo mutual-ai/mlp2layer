@@ -110,7 +110,7 @@ while (mse > error && counter < maxIt)
     WtGs = w2'*Gs';
     % Derivative of the activation function = df2
     df2 = (y1.*(1-y1));
-    % Local gradient. Hidden layers: df * sum of (last layer G * last layer weights)
+    % Local gradient. Hidden layers: df * sum of (next layer G * next layer weights)
     Gs2 = df2.*WtGs(2:end,:)';
     
     % Update first layer.

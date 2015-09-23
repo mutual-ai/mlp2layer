@@ -1,1 +1,5 @@
-Examples using the "trainingMLP2" and "outMLP2" functions.
+Examples using the "trainingMLP2" and "outMLP2" functions.  
+
+#Xor example
+
+![](https://raw.githubusercontent.com/augustomatheuss/mlp2layer/master/examples/xor_example.png)
